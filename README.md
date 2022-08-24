@@ -6,7 +6,7 @@
 
 [![Twitter Badge](https://img.shields.io/badge/-@barakatoseni1-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/barakatoseni1)](https://twitter.com/barakatoseni1)
 
-I'm a Junior Software Engineer, currently learning Cloud Engineering at [Alt School Africa](https://www.altschoolafrica.com/schools/engineering). I'm passionate about sharing knowledge, documentation, web engineering, Jamstack, headless commerce, and others. I create technical content (on my [Blog](https://bolajiayodeji.com/), build useful [open-source projects](https://github.com/barakat-oseni)...
+I'm a Junior Software Engineer, currently learning Cloud Engineering at [Alt School Africa](https://www.altschoolafrica.com/schools/engineering). I'm passionate about learning and sharing knowledge, build useful [open-source projects](https://github.com/barakat-oseni)...
 
 **Here's a quick summary about me**:
 
